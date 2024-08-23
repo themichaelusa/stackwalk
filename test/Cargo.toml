@@ -1,0 +1,11 @@
+[package]
+name = "stackwalk-experiment"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+stackwalk = { path = "./stackwalk" }
+
+[[bin]]
+name = "stackwalk-experiment"
+path = "main.rs"

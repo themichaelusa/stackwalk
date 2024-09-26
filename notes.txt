@@ -1,1 +1,0 @@
-# for stackwalk (https://github.com/tree-sitter/tree-sitter-python/blob/master/queries/tags.scm)
